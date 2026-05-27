@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerdelete",
+        "uuid": 2879900,
+        "checksum": "uk041q"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
